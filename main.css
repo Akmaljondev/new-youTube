@@ -1,0 +1,25 @@
+.topElement{
+    background-color: rgb(153, 153, 234);
+    height: 100px;
+    width: 100%;   
+}
+
+.tdSearch{
+    text-align: right;
+    width: 60%;
+}
+
+.searchDate{   
+    padding-right: 50px;
+    margin-top: 20px;
+    margin-right: 140px;
+}
+
+.topTable{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 1400px;  
+}
